@@ -15,7 +15,7 @@ Name: William (Bill) Ruymann Jr
 
 ## 👨‍💻 About Me
 
-I'm a dedicated and motivated student currently pursuing a career in **cybersecurity and networking**. With professional experience in network engineering and IT support, I am expanding my skillset through hands-on labs, coursework, and certifications (CCNA, Security+, etc.).
+I'm a dedicated and motivated student currently pursuing a career in **IT**. With professional experience in network engineering and IT support, I am expanding my skillset through hands-on labs, coursework, and certifications (CCNA, Security+, etc.).
 
 ## I am passionate about:
 - Network design and troubleshooting
