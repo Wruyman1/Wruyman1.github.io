@@ -1,12 +1,16 @@
 Name: William (Bill) Ruymann Jr 
 📧 **Email**: wgruymann@my.waketech.edu or billy.ruymann@gmail.com  
 🏫 **Student at Wake Tech – Computer Programming**
+
 🏫 **Bachelors of Arts Degree in Elementary Education - 
       Florida Atlantic University - 2006**
+
 🏫 **Bachelors of Science Degree in Computer Networks and Cybersecurity - 
       University of Maryland Global Campus - 2018**
+
 🏫 **Masters Degree in Telecommunications Management - 
       University of Maryland Global Campus - 2021**
+
 💻 **This repository serves as my academic portfolio for coursework and projects at Wake Technical Community College.**
 
 ## 👨‍💻 About Me
