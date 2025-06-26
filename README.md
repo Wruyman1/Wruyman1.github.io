@@ -1,25 +1,47 @@
-Name: William (Bill) Ruymann Jr Email: wgruymann@my.waketech.edu 
-This will act as my school Gethub page 
-This page will have my assigments and files from Wake Tech.
+Name: William (Bill) Ruymann Jr 
+📧 **Email**: wgruymann@my.waketech.edu or billy.ruymann@gmail.com  
+🏫 **Student at Wake Tech – Computer Programming**
+🏫 **Bachelors of Arts Degree in Elementary Education - Florida Atlantic University - 2006**
+🏫 **Bachelors of Science Degree in Computer Networks and Cybersecurity - University of Maryland Global Campus - 2018**
+🏫 **Masters Degree in Telecommunications Management - University of Maryland Global Campus - 2021**
+💻 **This repository serves as my academic portfolio for coursework and projects at Wake Technical Community College.**
 
-# **About Bill Ruymann**
+## 👨‍💻 About Me
 
-## *Bill's Interests*
-- Sports
-- Computers
-- Reading
-- Stand-up Comedy
-- Watching Movies
-- Watching the News
-### Bill's Favorite Sports Teams
-- Miami Dolphins (https://www.miamidolphins.com/)
-- Miami Heat (https://www.nba.com/heat/)
-- Miami Marlins (Formerly Known as the Florida Marlins) (https://www.mlb.com/marlins/) 
-- Florida Panthers (https://www.nhl.com/panthers/)
-- Florida Gators (https://floridagators.com/)
-## *Bill's Favorite Websites*
-- [ESPN] (https://espn.com) - I use this site to look at the scores and sports news and up dates on my favorite teams. The site has tabs to select your favorite teans which puts your teams scores and news from your favorite teans.
-- [Amazon} (https://amazon.co) - I love this site. This site allows you to order just about anything you you may need. I particularly use the site to order my comuter parts, when I'm buidling or updating my computers.
-- [ABC News] (https://abcnews.go.com) - This site allow me to follow the news of the day. I also use this site when I see a news story on facebook and would like to check to see if ABC News is reporting the same story. 
+I'm a dedicated and motivated student currently pursuing a career in **cybersecurity and networking**. With professional experience in network engineering and IT support, I am expanding my skillset through hands-on labs, coursework, and certifications (CCNA, Security+, etc.).
 
-    - 
+## I am passionate about:
+- Network design and troubleshooting
+- Firewalls and endpoint security
+- Python scripting and automation
+- Building and maintaining home and lab networks
+- Learning as much as I can
+
+
+## 📚 What You’ll Find Here
+This GitHub repository contains:
+- Lab assignments and configuration files from Wake Tech
+## 🧠 Interests Outside Tech
+
+- 🏈 Sports (NFL, NBA, NHL, MLB, NCAA)
+- 🎬 Movies & Stand-Up Comedy
+- 📺 Following current events and news
+- 🖥️ Building and upgrading custom computers
+- 📖 Reading (tech articles, history, and more)
+
+## 🏆 Favorite Sports Teams
+
+- [Miami Dolphins](https://www.miamidolphins.com/)
+- [Miami Heat](https://www.nba.com/heat/)
+- [Miami Marlins](https://www.mlb.com/marlins/)
+- [Florida Panthers](https://www.nhl.com/panthers/)
+- [Florida Gators](https://floridagators.com/)
+
+## 🌐 Frequently Visited Websites
+
+- [ESPN](https://espn.com): To stay updated on my favorite teams and scores. Great customizable content for sports fans.
+- [Amazon](https://amazon.com): I use it for all kinds of tech parts when building or upgrading PCs.
+- [ABC News](https://abcnews.go.com): Trusted news source for current events, especially to verify stories I see online.
+
+I'm always open to learning and collaboration. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/william-ruymann-jr-ba8239a3) or contact me directly through email.
+
